@@ -1,0 +1,192 @@
+{
+  "users": [
+    {
+      "name": "asd",
+      "username": "asd",
+      "email": "asd@asd.com",
+      "password": "asdASD33",
+      "imageUrl": "https://media.istockphoto.com/id/1311084168/photo/overjoyed-pretty-asian-woman-look-at-camera-with-sincere-laughter.jpg?s=612x612&w=0&k=20&c=akS4eKR3suhoP9cuk7_7ZVZrLuMMG0IgOQvQ5JiRmAg=",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Nico",
+      "username": "asdasd",
+      "email": "asd@asdasd.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifV3RIprnL4_-ZPwLX8Q8pnrgM7NtJ8jmoYoJAEoRGSusms7qritvgIL2QYSKOHdHeFQ&usqp=CAU",
+      "password": "asdASD33"
+    },
+    {
+      "id": 3,
+      "name": "Mikaela",
+      "username": "mika66",
+      "email": "asd@test.com",
+      "imageUrl": "https://assets-global.website-files.com/619e8d2e8bd4838a9340a810/647c1064ebf1c6171bfd3a87_profile-picture-feature-1.webp",
+      "password": "asdASD33"
+    },
+    {
+      "id": 4,
+      "name": "Vic",
+      "username": "demon_6",
+      "email": "qwe@test.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKnniVd-1DwkG7PLBc_49rBUJFHxl9mQeUx-SrWwg38HoSAMyOnSqb-dJaIrVBGilGW8&usqp=CAU",
+      "password": "asdASD33"
+    },
+    {
+      "id": 5,
+      "name": "James",
+      "username": "jj_4657",
+      "email": "zxc@test.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcMefFalsHWLgOR2RI5oprxUMlEos9i_0r313OCo1G8Vfjiif3EfHMwoZytn04legTf8&usqp=CAU",
+      "password": "asdASD33"
+    },
+    {
+      "id": 6,
+      "name": "Tina",
+      "username": "ponti4c",
+      "email": "dfg@test.com",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDk_pGSeCU1lVzSpFsq2KZrFFgtBnVIUZ5i9HGLI1tx3h85nGsF7tTiEg1vf1Ygf3SPs&usqp=CAU",
+      "password": "asdASD33"
+    }
+  ],
+  "tweets": [
+    {
+      "id": 0,
+      "userId": 1, 
+      "text": "Sample tweet text",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 5,
+      "comments": 10,
+      "reTweets": 3
+    },
+    {
+      "id": 1,
+      "userId": 2, 
+      "text": "Yesterday I took my dog for a walk and suddenly it started to rain Luckily my dog enjoyed it",
+      "timestamp": "Add date here",
+      "imageUrl": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?cs=srgb&dl=pexels-pixabay-267301.jpg&fm=jpg",
+      "likes": 10,
+      "comments": 3,
+      "reTweets": 5
+    },
+    {
+      "id": 2,
+      "userId": 3, 
+      "text": "Did anyone watch yesterday's game? :)))))",
+      "timestamp": "Add date here",
+      "imageUrl": "https://images.pagina12.com.ar/styles/focal_content_1200x1050/public/2023-11/793684-chilena-20garnacho-20na.jpg?h=ada05aa9&itok=5cnwYKvs",
+      "likes": 1,
+      "comments": 1,
+      "reTweets": 0
+    },
+    {
+      "id": 3,
+      "userId": 1, 
+      "text": "OMG Garnacho is the bestt <3",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 1,
+      "comments": 1,
+      "reTweets": 4
+    },
+    {
+      "id": 4,
+      "userId": 4, 
+      "text": "Lorem ipsum papuuu",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 5,
+      "comments": 5,
+      "reTweets": 3
+    },
+    {
+      "id": 5,
+      "userId": 3, 
+      "text": "Love react native",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 10,
+      "comments": 0,
+      "reTweets": 0
+    },
+    {
+      "id": 6,
+      "userId": 5, 
+      "text": "Click the link on my bio and start making real money",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 1,
+      "comments": 4,
+      "reTweets": 15
+    },
+    {
+      "id": 7,
+      "userId": 6, 
+      "text": "lalala!",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 1,
+      "comments": 1,
+      "reTweets": 1
+    },
+    {
+      "id": 8,
+      "userId": 2, 
+      "text": "la serie del momento o khee ??? ",
+      "timestamp": "Add date here",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radionica.rocks%2Fseries%2Fmire-el-trailer-oficial-de-la-segunda-temporada-de-invincible&psig=AOvVaw375TV8oW_wtDE6ut9t3ElY&ust=1701440184310000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjNz-X064IDFQAAAAAdAAAAABAJ",
+      "likes": 5,
+      "comments": 1,
+      "reTweets": 1
+    },
+    {
+      "id": 9,
+      "userId": 6, 
+      "text": "Sirius software",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 0,
+      "comments": 0,
+      "reTweets": 0
+    },
+    {
+      "id": 10,
+      "userId": 5, 
+      "text": "motomami",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 0,
+      "comments": 0,
+      "reTweets": 0
+    },
+    {
+      "id": 11,
+      "userId": 1, 
+      "text": "what's the weather like today??",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 0,
+      "comments": 0,
+      "reTweets": 0
+    }
+  ],
+  "forYouTweets": [
+    {
+      "id": 0,
+      "userId": 1, 
+      "text": "Sample tweet text",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 5
+    },
+    {
+      "id": 3,
+      "userId": 1, 
+      "text": "OMG Garnacho is the bestt <3",
+      "timestamp": "Add date here",
+      "imageUrl": "",
+      "likes": 1
+    }
+  ]
+}
